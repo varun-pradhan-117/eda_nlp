@@ -26,3 +26,7 @@ test.py
 testing.txt
 work.ipynb
 output.txt
+IMDB_bias_outputs.txt
+IMDB_comparison_outputs.txt
+MNLI_bias_outputs.txt
+MNLI_comparison_outputs.txt
