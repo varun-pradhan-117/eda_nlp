@@ -1,0 +1,25 @@
+
+emix-BERT, Unbiased, window_size=512, IMDB, val_acc=0.8802, ood_acc=0.7847999999999999, time_taken=376.13310503959656
+emix-BERT, Biased, window_size=512, IMDB, val_acc=0.758, ood_acc=0.7532, time_taken=370.65183305740356
+nomix-BERT, Unbiased, window_size=512, IMDB, val_acc=0.8804000000000001, ood_acc=0.7782, time_taken=375.9995087146759
+nomix-BERT, Biased, window_size=512, IMDB, val_acc=0.7636000000000001, ood_acc=0.7546, time_taken=269.0675437927246
+emix-BERT, Unbiased, window_size=32, IMDB, val_acc=0.7083999999999999, ood_acc=0.7095999999999999, time_taken=37.21512136459351
+emix-BERT, Biased, window_size=32, IMDB, val_acc=0.7452, ood_acc=0.6998, time_taken=35.307609939575194
+nomix-BERT, Unbiased, window_size=32, IMDB, val_acc=0.7078, ood_acc=0.7127999999999999, time_taken=37.07917561531067
+nomix-BERT, Biased, window_size=32, IMDB, val_acc=0.7534000000000001, ood_acc=0.7208, time_taken=22.578726243972778
+emix-GRU, Unbiased, window_size=512, IMDB, val_acc=0.5172000000000001, ood_acc=0.45120000000000005, time_taken=14.789858675003051
+emix-GRU, Biased, window_size=512, IMDB, val_acc=0.5154, ood_acc=0.446, time_taken=12.237401819229126
+nomix-GRU, Unbiased, window_size=512, IMDB, val_acc=0.5138, ood_acc=0.45499999999999996, time_taken=14.94921669960022
+nomix-GRU, Biased, window_size=512, IMDB, val_acc=0.5112, ood_acc=0.4476, time_taken=12.166929292678834
+emix-GRU, Unbiased, window_size=32, IMDB, val_acc=0.516, ood_acc=0.438, time_taken=9.385121726989746
+emix-GRU, Biased, window_size=32, IMDB, val_acc=0.5172000000000001, ood_acc=0.45439999999999997, time_taken=6.9981190204620365
+nomix-GRU, Unbiased, window_size=32, IMDB, val_acc=0.5122, ood_acc=0.4364, time_taken=9.33858847618103
+nomix-GRU, Biased, window_size=32, IMDB, val_acc=0.5142, ood_acc=0.43359999999999993, time_taken=6.498117685317993
+emix-LSTM, Unbiased, window_size=512, IMDB, val_acc=0.5077999999999999, ood_acc=0.43600000000000005, time_taken=16.763361263275147
+emix-LSTM, Biased, window_size=512, IMDB, val_acc=0.5115999999999999, ood_acc=0.4404, time_taken=14.118484497070312
+nomix-LSTM, Unbiased, window_size=512, IMDB, val_acc=0.5086, ood_acc=0.4316, time_taken=17.003697538375853
+nomix-LSTM, Biased, window_size=512, IMDB, val_acc=0.5084, ood_acc=0.4346, time_taken=14.22021164894104
+emix-LSTM, Unbiased, window_size=32, IMDB, val_acc=0.5102, ood_acc=0.4346, time_taken=9.630836629867554
+emix-LSTM, Biased, window_size=32, IMDB, val_acc=0.5076, ood_acc=0.43339999999999995, time_taken=6.5699320316314695
+nomix-LSTM, Unbiased, window_size=32, IMDB, val_acc=0.5078, ood_acc=0.438, time_taken=9.67516860961914
+nomix-LSTM, Biased, window_size=32, IMDB, val_acc=0.5074, ood_acc=0.43339999999999995, time_taken=6.505007982254028

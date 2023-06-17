@@ -14,3 +14,15 @@ outputs_f4*
 baseline_cnn*
 baseline_rnn*
 
+*.xml
+*.iml
+*.pyc
+*.pyc
+*.csv
+emix copy.ipynb
+*.pyc
+test.ipynb
+test.py
+testing.txt
+work.ipynb
+output.txt
